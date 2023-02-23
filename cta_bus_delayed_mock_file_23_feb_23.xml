@@ -1,0 +1,1245 @@
+<?xml version="1.0"?>
+<bustime-response>
+    <prd>
+        <tmstmp>20230223 07:06</tmstmp>
+        <typ>A</typ>
+        <stpnm>Madison &amp; Wabash</stpnm>
+        <stpid>450</stpid>
+        <seq>27</seq>
+        <geoid>24602</geoid>
+        <vid>4321</vid>
+        <rid>1308</rid>
+        <tripid>11518020</tripid>
+        <dstp>136</dstp>
+        <rt>J14</rt>
+        <rtdd>J14</rtdd>
+        <rtdir>Northbound</rtdir>
+        <des>Washington/Jefferson</des>
+        <schdtm>20230223 07:03</schdtm>
+        <prdtm>20230223 07:06</prdtm>
+        <dly>true</dly>
+        <tablockid>J14 -109</tablockid>
+        <tatripid>88348816</tatripid>
+        <prdctdn>DUE</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:06</tmstmp>
+        <typ>A</typ>
+        <stpnm>State &amp; Monroe</stpnm>
+        <stpid>1427</stpid>
+        <seq>28</seq>
+        <geoid>24938</geoid>
+        <vid>4104</vid>
+        <rid>P762</rid>
+        <tripid>5341020</tripid>
+        <dstp>714</dstp>
+        <rt>148</rt>
+        <rtdd>148</rtdd>
+        <rtdir>Southbound</rtdir>
+        <des>Harrison/State</des>
+        <schdtm>20230223 07:07</schdtm>
+        <prdtm>20230223 07:07</prdtm>
+        <dly>true</dly>
+        <tablockid>135 -505</tablockid>
+        <tatripid>88355689</tatripid>
+        <prdctdn>DUE</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>State &amp; Washington</stpnm>
+        <stpid>1425</stpid>
+        <seq>13</seq>
+        <geoid>24937</geoid>
+        <vid>7980</vid>
+        <rid>7101</rid>
+        <tripid>31363020</tripid>
+        <dstp>810</dstp>
+        <rt>2</rt>
+        <rtdd>2</rtdd>
+        <rtdir>Southbound</rtdir>
+        <des>Cottage Grove/60th</des>
+        <schdtm>20230223 07:10</schdtm>
+        <prdtm>20230223 07:07</prdtm>
+        <dly>true</dly>
+        <tablockid>2 -701</tablockid>
+        <tatripid>395</tatripid>
+        <prdctdn>DUE</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>Madison &amp; Wabash</stpnm>
+        <stpid>450</stpid>
+        <seq>4</seq>
+        <geoid>24602</geoid>
+        <vid>8119</vid>
+        <rid>5001</rid>
+        <tripid>30326020</tripid>
+        <dstp>996</dstp>
+        <rt>20</rt>
+        <rtdd>20</rtdd>
+        <rtdir>Westbound</rtdir>
+        <des>Austin</des>
+        <schdtm>20230223 07:08</schdtm>
+        <prdtm>20230223 07:07</prdtm>
+        <dly>true</dly>
+        <tablockid>20 -801</tablockid>
+        <tatripid>88357746</tatripid>
+        <prdctdn>DUE</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:06</tmstmp>
+        <typ>A</typ>
+        <stpnm>State &amp; Madison</stpnm>
+        <stpid>1117</stpid>
+        <seq>86</seq>
+        <geoid>24948</geoid>
+        <vid>8388</vid>
+        <rid>1207</rid>
+        <tripid>41391020</tripid>
+        <dstp>1067</dstp>
+        <rt>29</rt>
+        <rtdd>29</rtdd>
+        <rtdir>Northbound</rtdir>
+        <des>Navy Pier</des>
+        <schdtm>20230223 07:05</schdtm>
+        <prdtm>20230223 07:07</prdtm>
+        <dly>true</dly>
+        <tablockid>29 -101</tablockid>
+        <tatripid>22223896</tatripid>
+        <prdctdn>DUE</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>State &amp; Madison</stpnm>
+        <stpid>1117</stpid>
+        <seq>31</seq>
+        <geoid>24948</geoid>
+        <vid>1253</vid>
+        <rid>7256</rid>
+        <tripid>26973020</tripid>
+        <dstp>1790</dstp>
+        <rt>2</rt>
+        <rtdd>2</rtdd>
+        <rtdir>Northbound</rtdir>
+        <des>Navy Pier</des>
+        <schdtm>20230223 07:12</schdtm>
+        <prdtm>20230223 07:08</prdtm>
+        <dly>true</dly>
+        <tablockid>2 -704</tablockid>
+        <tatripid>383</tatripid>
+        <prdctdn>2</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>Washington &amp; State</stpnm>
+        <stpid>448</stpid>
+        <seq>51</seq>
+        <geoid>24494</geoid>
+        <vid>1674</vid>
+        <rid>K603</rid>
+        <tripid>21402020</tripid>
+        <dstp>824</dstp>
+        <rt>60</rt>
+        <rtdd>60</rtdd>
+        <rtdir>Eastbound</rtdir>
+        <des>Randolph/Harbor Dr</des>
+        <schdtm>20230223 07:09</schdtm>
+        <prdtm>20230223 07:08</prdtm>
+        <dly>true</dly>
+        <tablockid>60 -202</tablockid>
+        <tatripid>11</tatripid>
+        <prdctdn>DUE</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>State &amp; Monroe</stpnm>
+        <stpid>1427</stpid>
+        <seq>14</seq>
+        <geoid>24938</geoid>
+        <vid>7980</vid>
+        <rid>7101</rid>
+        <tripid>31363020</tripid>
+        <dstp>1707</dstp>
+        <rt>2</rt>
+        <rtdd>2</rtdd>
+        <rtdir>Southbound</rtdir>
+        <des>Cottage Grove/60th</des>
+        <schdtm>20230223 07:13</schdtm>
+        <prdtm>20230223 07:10</prdtm>
+        <dly>true</dly>
+        <tablockid>2 -701</tablockid>
+        <tatripid>395</tatripid>
+        <prdctdn>4</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>Dearborn &amp; Madison</stpnm>
+        <stpid>1882</stpid>
+        <seq>96</seq>
+        <geoid>24850</geoid>
+        <vid>1461</vid>
+        <rid>6204</rid>
+        <tripid>5463020</tripid>
+        <dstp>3465</dstp>
+        <rt>62</rt>
+        <rtdd>62</rtdd>
+        <rtdir>Northbound</rtdir>
+        <des>Kinzie/State</des>
+        <schdtm>20230223 07:18</schdtm>
+        <prdtm>20230223 07:11</prdtm>
+        <dly>true</dly>
+        <tablockid>62 -604</tablockid>
+        <tatripid>9</tatripid>
+        <prdctdn>5</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>Madison &amp; Wabash</stpnm>
+        <stpid>450</stpid>
+        <seq>15</seq>
+        <geoid>24600</geoid>
+        <vid>1917</vid>
+        <rid>5751</rid>
+        <tripid>4113020</tripid>
+        <dstp>3243</dstp>
+        <rt>157</rt>
+        <rtdd>157</rtdd>
+        <rtdir>Westbound</rtdir>
+        <des>Pulaski Pink Line</des>
+        <schdtm>20230223 07:12</schdtm>
+        <prdtm>20230223 07:11</prdtm>
+        <dly>true</dly>
+        <tablockid>157 -803</tablockid>
+        <tatripid>88348805</tatripid>
+        <prdctdn>4</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>Dearborn &amp; Madison</stpnm>
+        <stpid>1882</stpid>
+        <seq>7</seq>
+        <geoid>24850</geoid>
+        <vid>1932</vid>
+        <rid>P506</rid>
+        <tripid>42640020</tripid>
+        <dstp>3582</dstp>
+        <rt>151</rt>
+        <rtdd>151</rtdd>
+        <rtdir>Northbound</rtdir>
+        <des>Devon/Clark</des>
+        <schdtm>20230223 07:10</schdtm>
+        <prdtm>20230223 07:11</prdtm>
+        <dly>true</dly>
+        <tablockid>151 -509</tablockid>
+        <tatripid>84</tatripid>
+        <prdctdn>5</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:06</tmstmp>
+        <typ>A</typ>
+        <stpnm>Washington &amp; State</stpnm>
+        <stpid>448</stpid>
+        <seq>42</seq>
+        <geoid>24494</geoid>
+        <vid>8175</vid>
+        <rid>5773</rid>
+        <tripid>27032020</tripid>
+        <dstp>3401</dstp>
+        <rt>157</rt>
+        <rtdd>157</rtdd>
+        <rtdir>Eastbound</rtdir>
+        <des>Chestnut/Lake Shore</des>
+        <schdtm>20230223 07:10</schdtm>
+        <prdtm>20230223 07:11</prdtm>
+        <dly>true</dly>
+        <tablockid>157 -808</tablockid>
+        <tatripid>88348754</tatripid>
+        <prdctdn>5</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>State &amp; Washington</stpnm>
+        <stpid>1425</stpid>
+        <seq>66</seq>
+        <geoid>24937</geoid>
+        <vid>1784</vid>
+        <rid>P303</rid>
+        <tripid>13420020</tripid>
+        <dstp>4599</dstp>
+        <rt>36</rt>
+        <rtdd>36</rtdd>
+        <rtdir>Southbound</rtdir>
+        <des>LaSalle Metra Station</des>
+        <schdtm>20230223 07:05</schdtm>
+        <prdtm>20230223 07:12</prdtm>
+        <dly>true</dly>
+        <tablockid>36 -501</tablockid>
+        <tatripid>1021865</tatripid>
+        <prdctdn>6</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:06</tmstmp>
+        <typ>A</typ>
+        <stpnm>Washington &amp; State</stpnm>
+        <stpid>448</stpid>
+        <seq>70</seq>
+        <geoid>24494</geoid>
+        <vid>8236</vid>
+        <rid>F501</rid>
+        <tripid>4235020</tripid>
+        <dstp>3844</dstp>
+        <rt>56</rt>
+        <rtdd>56</rtdd>
+        <rtdir>Southbound</rtdir>
+        <des>Washington/Michigan</des>
+        <schdtm>20230223 07:09</schdtm>
+        <prdtm>20230223 07:12</prdtm>
+        <dly>true</dly>
+        <tablockid>56 -401</tablockid>
+        <tatripid>10004860</tatripid>
+        <prdctdn>6</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>State &amp; Monroe</stpnm>
+        <stpid>1427</stpid>
+        <seq>67</seq>
+        <geoid>24938</geoid>
+        <vid>1784</vid>
+        <rid>P303</rid>
+        <tripid>13420020</tripid>
+        <dstp>5496</dstp>
+        <rt>36</rt>
+        <rtdd>36</rtdd>
+        <rtdir>Southbound</rtdir>
+        <des>LaSalle Metra Station</des>
+        <schdtm>20230223 07:06</schdtm>
+        <prdtm>20230223 07:13</prdtm>
+        <dly>true</dly>
+        <tablockid>36 -501</tablockid>
+        <tatripid>1021865</tatripid>
+        <prdctdn>7</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>Washington &amp; State</stpnm>
+        <stpid>448</stpid>
+        <seq>60</seq>
+        <geoid>24494</geoid>
+        <vid>1911</vid>
+        <rid>5008</rid>
+        <tripid>45814020</tripid>
+        <dstp>4305</dstp>
+        <rt>20</rt>
+        <rtdd>20</rtdd>
+        <rtdir>Eastbound</rtdir>
+        <des>Illinois Center</des>
+        <schdtm>20230223 07:13</schdtm>
+        <prdtm>20230223 07:13</prdtm>
+        <dly>true</dly>
+        <tablockid>20 -805</tablockid>
+        <tatripid>88348702</tatripid>
+        <prdctdn>7</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>Washington &amp; State</stpnm>
+        <stpid>448</stpid>
+        <seq>8</seq>
+        <geoid>23887</geoid>
+        <vid>1932</vid>
+        <rid>P506</rid>
+        <tripid>42640020</tripid>
+        <dstp>4430</dstp>
+        <rt>151</rt>
+        <rtdd>151</rtdd>
+        <rtdir>Northbound</rtdir>
+        <des>Devon/Clark</des>
+        <schdtm>20230223 07:12</schdtm>
+        <prdtm>20230223 07:13</prdtm>
+        <dly>true</dly>
+        <tablockid>151 -509</tablockid>
+        <tatripid>84</tatripid>
+        <prdctdn>7</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>State &amp; Madison</stpnm>
+        <stpid>1117</stpid>
+        <seq>6</seq>
+        <geoid>24948</geoid>
+        <vid>4386</vid>
+        <rid>P713</rid>
+        <tripid>36602020</tripid>
+        <dstp>3876</dstp>
+        <rt>147</rt>
+        <rtdd>147</rtdd>
+        <rtdir>Northbound</rtdir>
+        <des>Howard Station</des>
+        <schdtm>20230223 07:14</schdtm>
+        <prdtm>20230223 07:14</prdtm>
+        <dly>true</dly>
+        <tablockid>147 -507</tablockid>
+        <tatripid>1064110</tatripid>
+        <prdctdn>8</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>Dearborn &amp; Madison</stpnm>
+        <stpid>1882</stpid>
+        <seq>6</seq>
+        <geoid>24850</geoid>
+        <vid>1719</vid>
+        <rid>P304</rid>
+        <tripid>1540020</tripid>
+        <dstp>3745</dstp>
+        <rt>36</rt>
+        <rtdd>36</rtdd>
+        <rtdir>Northbound</rtdir>
+        <des>Devon/Clark</des>
+        <schdtm>20230223 07:15</schdtm>
+        <prdtm>20230223 07:15</prdtm>
+        <dly>true</dly>
+        <tablockid>36 -507</tablockid>
+        <tatripid>88359027</tatripid>
+        <prdctdn>8</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>Madison &amp; Wabash</stpnm>
+        <stpid>450</stpid>
+        <seq>27</seq>
+        <geoid>24602</geoid>
+        <vid>4033</vid>
+        <rid>1416</rid>
+        <tripid>43182020</tripid>
+        <dstp>8439</dstp>
+        <rt>J14</rt>
+        <rtdd>J14</rtdd>
+        <rtdir>Northbound</rtdir>
+        <des>Washington/Jefferson</des>
+        <schdtm>20230223 07:12</schdtm>
+        <prdtm>20230223 07:15</prdtm>
+        <dly>true</dly>
+        <tablockid>J14 -110</tablockid>
+        <tatripid>88348817</tatripid>
+        <prdctdn>9</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:06</tmstmp>
+        <typ>A</typ>
+        <stpnm>Madison &amp; Wabash</stpnm>
+        <stpid>450</stpid>
+        <seq>7</seq>
+        <geoid>24602</geoid>
+        <vid>1640</vid>
+        <rid>K606</rid>
+        <tripid>10737020</tripid>
+        <dstp>4489</dstp>
+        <rt>60</rt>
+        <rtdd>60</rtdd>
+        <rtdir>Westbound</rtdir>
+        <des>Cicero/24th Pl</des>
+        <schdtm>20230223 07:16</schdtm>
+        <prdtm>20230223 07:16</prdtm>
+        <dly>true</dly>
+        <tablockid>60 -206</tablockid>
+        <tatripid>1001569</tatripid>
+        <prdctdn>DLY</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>State &amp; Washington</stpnm>
+        <stpid>1425</stpid>
+        <seq>37</seq>
+        <geoid>24937</geoid>
+        <vid>4103</vid>
+        <rid>P653</rid>
+        <tripid>6072020</tripid>
+        <dstp>5452</dstp>
+        <rt>146</rt>
+        <rtdd>146</rtdd>
+        <rtdir>Southbound</rtdir>
+        <des>Harrison</des>
+        <schdtm>20230223 07:16</schdtm>
+        <prdtm>20230223 07:17</prdtm>
+        <dly>true</dly>
+        <tablockid>146 -508</tablockid>
+        <tatripid>1973</tatripid>
+        <prdctdn>10</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>State &amp; Washington</stpnm>
+        <stpid>1425</stpid>
+        <seq>27</seq>
+        <geoid>24937</geoid>
+        <vid>4196</vid>
+        <rid>P610</rid>
+        <tripid>27488020</tripid>
+        <dstp>6904</dstp>
+        <rt>148</rt>
+        <rtdd>148</rtdd>
+        <rtdir>Southbound</rtdir>
+        <des>Harrison/State</des>
+        <schdtm>20230223 07:17</schdtm>
+        <prdtm>20230223 07:17</prdtm>
+        <dly>true</dly>
+        <tablockid>148 -503</tablockid>
+        <tatripid>88355690</tatripid>
+        <prdctdn>11</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>State &amp; Monroe</stpnm>
+        <stpid>1427</stpid>
+        <seq>38</seq>
+        <geoid>24938</geoid>
+        <vid>4103</vid>
+        <rid>P653</rid>
+        <tripid>6072020</tripid>
+        <dstp>6349</dstp>
+        <rt>146</rt>
+        <rtdd>146</rtdd>
+        <rtdir>Southbound</rtdir>
+        <des>Harrison</des>
+        <schdtm>20230223 07:18</schdtm>
+        <prdtm>20230223 07:18</prdtm>
+        <dly>true</dly>
+        <tablockid>146 -508</tablockid>
+        <tatripid>1973</tatripid>
+        <prdctdn>12</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>State &amp; Monroe</stpnm>
+        <stpid>1427</stpid>
+        <seq>28</seq>
+        <geoid>24938</geoid>
+        <vid>4196</vid>
+        <rid>P610</rid>
+        <tripid>27488020</tripid>
+        <dstp>7801</dstp>
+        <rt>148</rt>
+        <rtdd>148</rtdd>
+        <rtdir>Southbound</rtdir>
+        <des>Harrison/State</des>
+        <schdtm>20230223 07:19</schdtm>
+        <prdtm>20230223 07:18</prdtm>
+        <dly>true</dly>
+        <tablockid>148 -503</tablockid>
+        <tatripid>88355690</tatripid>
+        <prdctdn>12</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>State &amp; Washington</stpnm>
+        <stpid>1425</stpid>
+        <seq>66</seq>
+        <geoid>24937</geoid>
+        <vid>1731</vid>
+        <rid>P302</rid>
+        <tripid>15031020</tripid>
+        <dstp>9003</dstp>
+        <rt>36</rt>
+        <rtdd>36</rtdd>
+        <rtdir>Southbound</rtdir>
+        <des>LaSalle Metra Station</des>
+        <schdtm>20230223 07:20</schdtm>
+        <prdtm>20230223 07:19</prdtm>
+        <dly>true</dly>
+        <tablockid>36 -502</tablockid>
+        <tatripid>1021866</tatripid>
+        <prdctdn>13</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:06</tmstmp>
+        <typ>A</typ>
+        <stpnm>State &amp; Washington</stpnm>
+        <stpid>1425</stpid>
+        <seq>11</seq>
+        <geoid>24937</geoid>
+        <vid>1146</vid>
+        <rid>1055</rid>
+        <tripid>24045020</tripid>
+        <dstp>8144</dstp>
+        <rt>29</rt>
+        <rtdd>29</rtdd>
+        <rtdir>Southbound</rtdir>
+        <des>95th Red Line</des>
+        <schdtm>20230223 07:19</schdtm>
+        <prdtm>20230223 07:20</prdtm>
+        <dly>true</dly>
+        <tablockid>29 -108</tablockid>
+        <tatripid>535</tatripid>
+        <prdctdn>14</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>State &amp; Monroe</stpnm>
+        <stpid>1427</stpid>
+        <seq>67</seq>
+        <geoid>24938</geoid>
+        <vid>1731</vid>
+        <rid>P302</rid>
+        <tripid>15031020</tripid>
+        <dstp>9900</dstp>
+        <rt>36</rt>
+        <rtdd>36</rtdd>
+        <rtdir>Southbound</rtdir>
+        <des>LaSalle Metra Station</des>
+        <schdtm>20230223 07:21</schdtm>
+        <prdtm>20230223 07:20</prdtm>
+        <dly>true</dly>
+        <tablockid>36 -502</tablockid>
+        <tatripid>1021866</tatripid>
+        <prdctdn>14</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:06</tmstmp>
+        <typ>A</typ>
+        <stpnm>Madison &amp; Wabash</stpnm>
+        <stpid>450</stpid>
+        <seq>2</seq>
+        <geoid>24602</geoid>
+        <vid>8236</vid>
+        <rid>F501</rid>
+        <tripid>12081020</tripid>
+        <dstp>5398</dstp>
+        <rt>56</rt>
+        <rtdd>56</rtdd>
+        <rtdir>Northbound</rtdir>
+        <des>Jefferson Park Blue Line</des>
+        <schdtm>20230223 07:20</schdtm>
+        <prdtm>20230223 07:20</prdtm>
+        <dly>true</dly>
+        <tablockid>56 -401</tablockid>
+        <tatripid>88356512</tatripid>
+        <prdctdn>14</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:06</tmstmp>
+        <typ>A</typ>
+        <stpnm>State &amp; Monroe</stpnm>
+        <stpid>1427</stpid>
+        <seq>12</seq>
+        <geoid>24938</geoid>
+        <vid>1146</vid>
+        <rid>1055</rid>
+        <tripid>24045020</tripid>
+        <dstp>9041</dstp>
+        <rt>29</rt>
+        <rtdd>29</rtdd>
+        <rtdir>Southbound</rtdir>
+        <des>95th Red Line</des>
+        <schdtm>20230223 07:21</schdtm>
+        <prdtm>20230223 07:22</prdtm>
+        <dly>true</dly>
+        <tablockid>29 -108</tablockid>
+        <tatripid>535</tatripid>
+        <prdctdn>16</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:06</tmstmp>
+        <typ>A</typ>
+        <stpnm>Dearborn &amp; Madison</stpnm>
+        <stpid>1882</stpid>
+        <seq>54</seq>
+        <geoid>24850</geoid>
+        <vid>1362</vid>
+        <rid>7210</rid>
+        <tripid>15338020</tripid>
+        <dstp>15059</dstp>
+        <rt>24</rt>
+        <rtdd>24</rtdd>
+        <rtdir>Northbound</rtdir>
+        <des>Wacker/Clark</des>
+        <schdtm>20230223 07:23</schdtm>
+        <prdtm>20230223 07:22</prdtm>
+        <dly>true</dly>
+        <tablockid>24 -704</tablockid>
+        <tatripid>1079746</tatripid>
+        <prdctdn>16</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>Madison &amp; Wabash</stpnm>
+        <stpid>450</stpid>
+        <seq>15</seq>
+        <geoid>24600</geoid>
+        <vid>1956</vid>
+        <rid>5755</rid>
+        <tripid>27339020</tripid>
+        <dstp>9070</dstp>
+        <rt>157</rt>
+        <rtdd>157</rtdd>
+        <rtdir>Westbound</rtdir>
+        <des>Pulaski Pink Line</des>
+        <schdtm>20230223 07:22</schdtm>
+        <prdtm>20230223 07:22</prdtm>
+        <dly>true</dly>
+        <tablockid>157 -810</tablockid>
+        <tatripid>88348806</tatripid>
+        <prdctdn>16</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>Madison &amp; Wabash</stpnm>
+        <stpid>450</stpid>
+        <seq>27</seq>
+        <geoid>24602</geoid>
+        <vid>4034</vid>
+        <rid>1417</rid>
+        <tripid>4087020</tripid>
+        <dstp>27749</dstp>
+        <rt>J14</rt>
+        <rtdd>J14</rtdd>
+        <rtdir>Northbound</rtdir>
+        <des>Washington/Jefferson</des>
+        <schdtm>20230223 07:22</schdtm>
+        <prdtm>20230223 07:22</prdtm>
+        <dly>true</dly>
+        <tablockid>J14 -111</tablockid>
+        <tatripid>88348818</tatripid>
+        <prdctdn>16</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>Dearborn &amp; Madison</stpnm>
+        <stpid>1882</stpid>
+        <seq>7</seq>
+        <geoid>24850</geoid>
+        <vid>4063</vid>
+        <rid>K112</rid>
+        <tripid>36270020</tripid>
+        <dstp>6365</dstp>
+        <rt>151</rt>
+        <rtdd>151</rtdd>
+        <rtdir>Northbound</rtdir>
+        <des>Water Tower</des>
+        <schdtm>20230223 07:22</schdtm>
+        <prdtm>20230223 07:22</prdtm>
+        <dly>true</dly>
+        <tablockid>151 -201</tablockid>
+        <tatripid>173</tatripid>
+        <prdctdn>16</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>Washington &amp; State</stpnm>
+        <stpid>448</stpid>
+        <seq>8</seq>
+        <geoid>23887</geoid>
+        <vid>4063</vid>
+        <rid>K112</rid>
+        <tripid>36270020</tripid>
+        <dstp>7213</dstp>
+        <rt>151</rt>
+        <rtdd>151</rtdd>
+        <rtdir>Northbound</rtdir>
+        <des>Water Tower</des>
+        <schdtm>20230223 07:23</schdtm>
+        <prdtm>20230223 07:23</prdtm>
+        <dly>true</dly>
+        <tablockid>151 -201</tablockid>
+        <tatripid>173</tatripid>
+        <prdctdn>17</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>State &amp; Madison</stpnm>
+        <stpid>1117</stpid>
+        <seq>13</seq>
+        <geoid>24948</geoid>
+        <vid>4141</vid>
+        <rid>P605</rid>
+        <tripid>29813020</tripid>
+        <dstp>12153</dstp>
+        <rt>146</rt>
+        <rtdd>146</rtdd>
+        <rtdir>Northbound</rtdir>
+        <des>Berwyn/Broadway</des>
+        <schdtm>20230223 07:23</schdtm>
+        <prdtm>20230223 07:23</prdtm>
+        <dly>true</dly>
+        <tablockid>146 -505</tablockid>
+        <tatripid>88348145</tatripid>
+        <prdctdn>17</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>Madison &amp; Wabash</stpnm>
+        <stpid>450</stpid>
+        <seq>4</seq>
+        <geoid>24602</geoid>
+        <vid>8153</vid>
+        <rid>5006</rid>
+        <tripid>19525020</tripid>
+        <dstp>6179</dstp>
+        <rt>20</rt>
+        <rtdd>20</rtdd>
+        <rtdir>Westbound</rtdir>
+        <des>Austin</des>
+        <schdtm>20230223 07:23</schdtm>
+        <prdtm>20230223 07:23</prdtm>
+        <dly>true</dly>
+        <tablockid>N20 -891</tablockid>
+        <tatripid>88357766</tatripid>
+        <prdctdn>17</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>State &amp; Madison</stpnm>
+        <stpid>1117</stpid>
+        <seq>31</seq>
+        <geoid>24948</geoid>
+        <vid>1237</vid>
+        <rid>7104</rid>
+        <tripid>40179020</tripid>
+        <dstp>31595</dstp>
+        <rt>2</rt>
+        <rtdd>2</rtdd>
+        <rtdir>Northbound</rtdir>
+        <des>Navy Pier</des>
+        <schdtm>20230223 07:23</schdtm>
+        <prdtm>20230223 07:24</prdtm>
+        <dly>true</dly>
+        <tablockid>2 -705</tablockid>
+        <tatripid>384</tatripid>
+        <prdctdn>18</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>Washington &amp; State</stpnm>
+        <stpid>448</stpid>
+        <seq>51</seq>
+        <geoid>24494</geoid>
+        <vid>1695</vid>
+        <rid>K610</rid>
+        <tripid>26386020</tripid>
+        <dstp>10401</dstp>
+        <rt>60</rt>
+        <rtdd>60</rtdd>
+        <rtdir>Eastbound</rtdir>
+        <des>Randolph/Harbor Dr</des>
+        <schdtm>20230223 07:26</schdtm>
+        <prdtm>20230223 07:24</prdtm>
+        <dly>true</dly>
+        <tablockid>60 -208</tablockid>
+        <tatripid>12</tatripid>
+        <prdctdn>18</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:06</tmstmp>
+        <typ>A</typ>
+        <stpnm>Dearborn &amp; Madison</stpnm>
+        <stpid>1882</stpid>
+        <seq>8</seq>
+        <geoid>24850</geoid>
+        <vid>1742</vid>
+        <rid>P211</rid>
+        <tripid>38699020</tripid>
+        <dstp>7436</dstp>
+        <rt>22</rt>
+        <rtdd>22</rtdd>
+        <rtdir>Northbound</rtdir>
+        <des>Howard</des>
+        <schdtm>20230223 07:24</schdtm>
+        <prdtm>20230223 07:24</prdtm>
+        <dly>true</dly>
+        <tablockid>22 -508</tablockid>
+        <tatripid>203900</tatripid>
+        <prdctdn>18</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>State &amp; Washington</stpnm>
+        <stpid>1425</stpid>
+        <seq>13</seq>
+        <geoid>24937</geoid>
+        <vid>1584</vid>
+        <rid>7614</rid>
+        <tripid>38856020</tripid>
+        <dstp>9578</dstp>
+        <rt>2</rt>
+        <rtdd>2</rtdd>
+        <rtdir>Southbound</rtdir>
+        <des>Cottage Grove/60th</des>
+        <schdtm>20230223 07:26</schdtm>
+        <prdtm>20230223 07:26</prdtm>
+        <dly>true</dly>
+        <tablockid>2 -702</tablockid>
+        <tatripid>396</tatripid>
+        <prdctdn>20</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>Washington &amp; State</stpnm>
+        <stpid>448</stpid>
+        <seq>42</seq>
+        <geoid>24494</geoid>
+        <vid>8176</vid>
+        <rid>5757</rid>
+        <tripid>45029020</tripid>
+        <dstp>14714</dstp>
+        <rt>157</rt>
+        <rtdd>157</rtdd>
+        <rtdir>Eastbound</rtdir>
+        <des>Chestnut/Lake Shore</des>
+        <schdtm>20230223 07:26</schdtm>
+        <prdtm>20230223 07:26</prdtm>
+        <dly>true</dly>
+        <tablockid>157 -809</tablockid>
+        <tatripid>88348755</tatripid>
+        <prdctdn>20</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:06</tmstmp>
+        <typ>A</typ>
+        <stpnm>State &amp; Madison</stpnm>
+        <stpid>1117</stpid>
+        <seq>86</seq>
+        <geoid>24948</geoid>
+        <vid>8432</vid>
+        <rid>1310</rid>
+        <tripid>45427020</tripid>
+        <dstp>16655</dstp>
+        <rt>29</rt>
+        <rtdd>29</rtdd>
+        <rtdir>Northbound</rtdir>
+        <des>Navy Pier</des>
+        <schdtm>20230223 07:23</schdtm>
+        <prdtm>20230223 07:26</prdtm>
+        <dly>true</dly>
+        <tablockid>29 -109</tablockid>
+        <tatripid>22223897</tatripid>
+        <prdctdn>20</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:06</tmstmp>
+        <typ>A</typ>
+        <stpnm>State &amp; Washington</stpnm>
+        <stpid>1425</stpid>
+        <seq>27</seq>
+        <geoid>24937</geoid>
+        <vid>4338</vid>
+        <rid>P516</rid>
+        <tripid>13213020</tripid>
+        <dstp>28743</dstp>
+        <rt>148</rt>
+        <rtdd>148</rtdd>
+        <rtdir>Southbound</rtdir>
+        <des>Harrison/State</des>
+        <schdtm>20230223 07:27</schdtm>
+        <prdtm>20230223 07:27</prdtm>
+        <dly>true</dly>
+        <tablockid>151 -515</tablockid>
+        <tatripid>88355691</tatripid>
+        <prdctdn>20</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>State &amp; Monroe</stpnm>
+        <stpid>1427</stpid>
+        <seq>14</seq>
+        <geoid>24938</geoid>
+        <vid>1584</vid>
+        <rid>7614</rid>
+        <tripid>38856020</tripid>
+        <dstp>10475</dstp>
+        <rt>2</rt>
+        <rtdd>2</rtdd>
+        <rtdir>Southbound</rtdir>
+        <des>Cottage Grove/60th</des>
+        <schdtm>20230223 07:28</schdtm>
+        <prdtm>20230223 07:28</prdtm>
+        <dly>true</dly>
+        <tablockid>2 -702</tablockid>
+        <tatripid>396</tatripid>
+        <prdctdn>22</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:06</tmstmp>
+        <typ>A</typ>
+        <stpnm>State &amp; Monroe</stpnm>
+        <stpid>1427</stpid>
+        <seq>28</seq>
+        <geoid>24938</geoid>
+        <vid>4338</vid>
+        <rid>P516</rid>
+        <tripid>13213020</tripid>
+        <dstp>29640</dstp>
+        <rt>148</rt>
+        <rtdd>148</rtdd>
+        <rtdir>Southbound</rtdir>
+        <des>Harrison/State</des>
+        <schdtm>20230223 07:29</schdtm>
+        <prdtm>20230223 07:28</prdtm>
+        <dly>true</dly>
+        <tablockid>151 -515</tablockid>
+        <tatripid>88355691</tatripid>
+        <prdctdn>22</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>Washington &amp; State</stpnm>
+        <stpid>448</stpid>
+        <seq>70</seq>
+        <geoid>24494</geoid>
+        <vid>8308</vid>
+        <rid>F509</rid>
+        <tripid>19790020</tripid>
+        <dstp>17194</dstp>
+        <rt>56</rt>
+        <rtdd>56</rtdd>
+        <rtdir>Southbound</rtdir>
+        <des>Washington/Michigan</des>
+        <schdtm>20230223 07:26</schdtm>
+        <prdtm>20230223 07:28</prdtm>
+        <dly>true</dly>
+        <tablockid>56 -407</tablockid>
+        <tatripid>10004878</tatripid>
+        <prdctdn>22</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>State &amp; Madison</stpnm>
+        <stpid>1117</stpid>
+        <seq>6</seq>
+        <geoid>24948</geoid>
+        <vid>4341</vid>
+        <rid>P701</rid>
+        <tripid>21050020</tripid>
+        <dstp>3963</dstp>
+        <rt>147</rt>
+        <rtdd>147</rtdd>
+        <rtdir>Northbound</rtdir>
+        <des>Howard Station</des>
+        <schdtm>20230223 07:29</schdtm>
+        <prdtm>20230223 07:29</prdtm>
+        <dly>true</dly>
+        <tablockid>147 -501</tablockid>
+        <tatripid>1064112</tatripid>
+        <prdctdn>23</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>State &amp; Madison</stpnm>
+        <stpid>1117</stpid>
+        <seq>31</seq>
+        <geoid>24948</geoid>
+        <vid>1558</vid>
+        <rid>7105</rid>
+        <tripid>43800020</tripid>
+        <dstp>40339</dstp>
+        <rt>2</rt>
+        <rtdd>2</rtdd>
+        <rtdir>Northbound</rtdir>
+        <des>Navy Pier</des>
+        <schdtm>20230223 07:33</schdtm>
+        <prdtm>20230223 07:31</prdtm>
+        <dly>true</dly>
+        <tablockid>2 -706</tablockid>
+        <tatripid>385</tatripid>
+        <prdctdn>25</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>Madison &amp; Wabash</stpnm>
+        <stpid>450</stpid>
+        <seq>7</seq>
+        <geoid>24602</geoid>
+        <vid>1674</vid>
+        <rid>K603</rid>
+        <tripid>20981020</tripid>
+        <dstp>8900</dstp>
+        <rt>60</rt>
+        <rtdd>60</rtdd>
+        <rtdir>Westbound</rtdir>
+        <des>Cicero/24th Pl</des>
+        <schdtm>20230223 07:31</schdtm>
+        <prdtm>20230223 07:31</prdtm>
+        <dly>true</dly>
+        <tablockid>60 -202</tablockid>
+        <tatripid>1001570</tatripid>
+        <prdctdn>25</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:06</tmstmp>
+        <typ>A</typ>
+        <stpnm>Madison &amp; Wabash</stpnm>
+        <stpid>450</stpid>
+        <seq>15</seq>
+        <geoid>24600</geoid>
+        <vid>1905</vid>
+        <rid>5756</rid>
+        <tripid>22116020</tripid>
+        <dstp>9187</dstp>
+        <rt>157</rt>
+        <rtdd>157</rtdd>
+        <rtdir>Westbound</rtdir>
+        <des>Pulaski Pink Line</des>
+        <schdtm>20230223 07:32</schdtm>
+        <prdtm>20230223 07:32</prdtm>
+        <dly>true</dly>
+        <tablockid>157 -805</tablockid>
+        <tatripid>88348858</tatripid>
+        <prdctdn>26</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:06</tmstmp>
+        <typ>A</typ>
+        <stpnm>Washington &amp; State</stpnm>
+        <stpid>448</stpid>
+        <seq>60</seq>
+        <geoid>24494</geoid>
+        <vid>1976</vid>
+        <rid>5002</rid>
+        <tripid>12815020</tripid>
+        <dstp>20614</dstp>
+        <rt>20</rt>
+        <rtdd>20</rtdd>
+        <rtdir>Eastbound</rtdir>
+        <des>Illinois Center</des>
+        <schdtm>20230223 07:31</schdtm>
+        <prdtm>20230223 07:32</prdtm>
+        <dly>true</dly>
+        <tablockid>20 -802</tablockid>
+        <tatripid>88348704</tatripid>
+        <prdctdn>26</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:06</tmstmp>
+        <typ>A</typ>
+        <stpnm>Washington &amp; State</stpnm>
+        <stpid>448</stpid>
+        <seq>6</seq>
+        <geoid>24494</geoid>
+        <vid>4321</vid>
+        <rid>1308</rid>
+        <tripid>39703020</tripid>
+        <dstp>10993</dstp>
+        <rt>J14</rt>
+        <rtdd>J14</rtdd>
+        <rtdir>Southbound</rtdir>
+        <des>103rd/Stony Island</des>
+        <schdtm>20230223 07:32</schdtm>
+        <prdtm>20230223 07:32</prdtm>
+        <dly>true</dly>
+        <tablockid>J14 -109</tablockid>
+        <tatripid>88348830</tatripid>
+        <prdctdn>26</prdctdn>
+        <zone></zone>
+    </prd>
+    <prd>
+        <tmstmp>20230223 07:05</tmstmp>
+        <typ>A</typ>
+        <stpnm>State &amp; Washington</stpnm>
+        <stpid>1425</stpid>
+        <seq>7</seq>
+        <geoid>24937</geoid>
+        <vid>4324</vid>
+        <rid>1605</rid>
+        <tripid>16961020</tripid>
+        <dstp>9444</dstp>
+        <rt>6</rt>
+        <rtdd>6</rtdd>
+        <rtdir>Southbound</rtdir>
+        <des>79th/South Shore</des>
+        <schdtm>20230223 07:34</schdtm>
+        <prdtm>20230223 07:34</prdtm>
+        <dly>true</dly>
+        <tablockid>6 -102</tablockid>
+        <tatripid>1031460</tatripid>
+        <prdctdn>28</prdctdn>
+        <zone></zone>
+    </prd>
+</bustime-response>
